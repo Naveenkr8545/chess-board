@@ -1,0 +1,32 @@
+.chessboard
+{
+    float: left;
+    width: 640px;
+    height: 640px;
+    margin:10px ;
+    border:20px solid rgb(56, 53, 53);
+}
+.black
+{
+
+    background-color: rgb(87, 85, 85);
+    height:80px;
+    width:80px;
+    text-align: center;
+    font-size: 70px;
+    display: table-cell;
+    float: left;
+    ;
+} 
+.white
+{
+
+    background-color: white;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    font-size: 70px;
+    display: table-cell;
+    float: left;
+    ;
+} 
