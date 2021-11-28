@@ -1,0 +1,88 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="c.css">
+    </head>
+    <body bgcolor="#AEB6BF">
+        <h1 align="center"><u><stroke>Chess Board</stroke></u></h1>
+        <div class="chessboard">
+            <!-- 1 -->
+            <div class="black">&#x265C;</div>
+            <div class="white">&#x265E;</div>
+            <div class="black">&#x265D;</div>
+            <div class="white">&#x265B;</div>
+            <div class="black">&#x265A;</div>
+            <div class="white">&#x265D;</div>
+            <div class="black">&#x265E;</div>
+            <div class="white">&#x265C;</div>
+            <!-- 2 -->
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <!-- 3 -->
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <!-- 4 -->
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <!-- 5 -->
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <!-- 6 -->
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <div class="white"></div>
+            <div class="black"></div>
+            <!-- 7 -->
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <div class="black">&#x265F;</div>
+            <div class="white">&#x265F;</div>
+            <!-- 8 -->
+            <div class="white">&#x265C;</div>
+            <div class="black">&#x265E;</div>
+            <div class="white">&#x265D;</div>
+            <div class="black">&#x265A;</div>
+            <div class="white">&#x265B;</div>
+            <div class="black">&#x265D;</div>
+            <div class="white">&#x265E;</div>
+            <div class="black">&#x265C;</div>
+        </div>
+    </body>
+    </html>
+    
